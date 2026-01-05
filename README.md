@@ -4,8 +4,7 @@
 
 <table>
 <tr>
-<td  colspan="2"> <<img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/42b31106-a54c-42aa-a6a1-658f518751d8" />
-> </td>
+<td  colspan="2"> <img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/42b31106-a54c-42aa-a6a1-658f518751d8" /> </td>
 </tr>
 <tr>
 <td> <img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/2a00d9aa-502c-4264-952a-124fd2bd740f" />
