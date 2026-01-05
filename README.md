@@ -1,6 +1,6 @@
 ## VeloR-V2
 
- velo será un Robot seguidor de Líneas con una turbina integrada para una mayor agilidad, tambien llevara una regleta de 16 Sensores QRE1113, para una mejor lectura de la pista
+ Velo será un Robot seguidor de Líneas con una turbina integrada para una mayor agilidad, tambien llevara una regleta de 16 Sensores QRE1113, para una mejor lectura de la pista para lograr competir en la categoria de Carreras Pro de la LNR
 
 <table>
 <tr>
@@ -15,9 +15,10 @@
 </table>
 
 ## 🛠️🧰COMPONENTES
-los componentes que utilizara este robot Son
+los componentes que utilizara este robot son
 - ESP32 embebido
 - Motores profast de 3600 RPM
+- Ruedas JS2124
 - Puentes H TA6586
 - Motor Brushless/Coreless como Turbina
 - Regleta De 16 [sensores QRE1113](https://github.com/RamiiTrejo/Array-16-Sensors)
