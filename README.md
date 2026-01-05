@@ -15,4 +15,4 @@ los componentes que utilizara este robot Son
 - Motores profast de 3600 RPM
 - Puentes H TA6586
 - Motor Brushless/Coreless como Turbina
-- Regleta De 16 [SENSORES](https://github.com/RamiiTrejo/Array-16-Sensors)
+- Regleta De 16 [sensores QRE1113](https://github.com/RamiiTrejo/Array-16-Sensors)
