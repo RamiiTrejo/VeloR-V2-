@@ -2,8 +2,6 @@
 
  velo será un Robot seguidor de Líneas con una turbina integrada para una mayor agilidad, tambien llevara una regleta de 16 Sensores QRE1113, para una mejor lectura de la pista
 
-<img width="694" height="595" alt="image" src="https://github.com/user-attachments/assets/185892a5-1bcc-448f-a373-40bf6941ac3f" />
-
 <table>
 <tr>
 <td  colspan="2"> <img width="694" height="595" alt="image" src="https://github.com/user-attachments/assets/185892a5-1bcc-448f-a373-40bf6941ac3f" /> </td>
