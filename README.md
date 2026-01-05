@@ -2,16 +2,16 @@
 
  velo será un Robot seguidor de Líneas con una turbina integrada para una mayor agilidad, tambien llevara una regleta de 16 Sensores QRE1113, para una mejor lectura de la pista
 
-<img width="538" height="619" alt="image" src="https://github.com/user-attachments/assets/6fc73fd1-3824-4204-81af-466de866eb9f" />
+<img width="694" height="595" alt="image" src="https://github.com/user-attachments/assets/185892a5-1bcc-448f-a373-40bf6941ac3f" />
 
 <table>
 <tr>
-<td  colspan="2"> <img width="942" height="553" alt="image" src="https://github.com/user-attachments/assets/e8f4bfd3-a6e1-4cd2-bdee-7e8c1f82249f" /> </td>
+<td  colspan="2"> <img width="694" height="595" alt="image" src="https://github.com/user-attachments/assets/185892a5-1bcc-448f-a373-40bf6941ac3f" /> </td>
 </tr>
 <tr>
 <td> <img width="966" height="583" alt="image" src="https://github.com/user-attachments/assets/2a00d9aa-502c-4264-952a-124fd2bd740f" />
  </td>
-<td> <img width="538" height="619" alt="image" src="https://github.com/user-attachments/assets/6fc73fd1-3824-4204-81af-466de866eb9f" />
+<td> <img width="942" height="553" alt="image" src="https://github.com/user-attachments/assets/e8f4bfd3-a6e1-4cd2-bdee-7e8c1f82249f" />
  </td>
 </tr>
 </table>
